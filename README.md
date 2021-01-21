@@ -26,3 +26,4 @@ So RoboFlow also has several tutorials on training custom models for OAK and OAK
  - https://blog.roboflow.com/deploy-luxonis-oak/
 
 
+### After training the colab models, convert the .weights to .pb and then to Intermediate Representation using luxonis/depth-ai readme to be executable on OpenVINO and luxonis
